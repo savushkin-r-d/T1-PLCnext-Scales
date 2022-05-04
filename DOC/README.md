@@ -17,7 +17,7 @@ ___
 На корпусе устройства имеются поворотные переключатели S1 и S2, задающие режим работы.
 
 <p align="center">
-<img align="center" src="/Images/Bus%20Coupler.jpg">
+<img align="center" src="Bus%20Coupler.jpg">
 </p>
 <p align="center"> Рисунок 1 - Внешний вид Bus Coupler </p>
 
